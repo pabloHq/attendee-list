@@ -1,4 +1,4 @@
-![Logo do projeto]([https://i.imgur.com/kniMQHu.png](https://imgur.com/a/yod5mN7))
+![Logo do projeto](https://imgur.com/a/yod5mN7)
 
 # 🖥️ Lista de Atendimento 
 
