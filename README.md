@@ -1,4 +1,4 @@
-<img src="[https://exemplo.com/logo.png](https://imgur.com/a/jVQnqmn)" alt="Logo">
+<img src="https://imgur.com/a/jVQnqmn" alt="Logo">
 # 🖥️ Lista de Atendimento 
 
 Projeto feito para aperfeiçoar minhas habilidades, utilizando React entre outras bibliotecas incríveis.
