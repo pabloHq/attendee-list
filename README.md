@@ -20,4 +20,4 @@ npm i dayjs
 * [TailwindCSS](https://tailwindcss.com/)
 
 **Back-end:**
-[Dados fictícios utilizando a biblioteca Fakerjs][https://fakerjs.dev/]
+* [Dados fictícios utilizando a biblioteca Fakerjs][https://fakerjs.dev/]
