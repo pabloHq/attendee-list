@@ -1,4 +1,5 @@
-<img src="https://imgur.com/a/jVQnqmn" alt="Logo">
+<img src="/assets/img/tela.png">
+
 # 🖥️ Lista de Atendimento 
 
 Projeto feito para aperfeiçoar minhas habilidades, utilizando React entre outras bibliotecas incríveis.
