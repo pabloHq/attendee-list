@@ -1,4 +1,4 @@
-![Logo do projeto]([(https://imgur.com/DogMU9M)](https://imgur.com/qD0ItXR))
+![Logo do projeto](https://imgur.com/qD0ItXR)
 
 # 🖥️ Lista de Atendimento 
 
