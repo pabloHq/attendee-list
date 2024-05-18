@@ -13,3 +13,11 @@ npm install @faker-js/faker --save-dev
 
 npm i dayjs
 ```
+## 📦 Tecnologias usadas:
+
+**Front-end:**
+* [React JS](https://react.dev/)
+* [TailwindCSS](https://tailwindcss.com/)
+
+**Back-end:**
+[Dados fictícios utilizando a biblioteca Fakerjs][https://fakerjs.dev/]
