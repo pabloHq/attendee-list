@@ -1,4 +1,4 @@
-![Logo do projeto]((https://imgur.com/f1gJwRr))
+![Logo do projeto](https://imgur.com/f1gJwRr)
 
 # 🖥️ Lista de Atendimento 
 
