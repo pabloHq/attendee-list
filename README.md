@@ -1,4 +1,4 @@
-<img src="src/assets/img/tela.png">
+<img src="assets/tela.png">
 
 # 🖥️ Lista de Atendimento 
 
