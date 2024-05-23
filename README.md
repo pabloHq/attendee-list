@@ -2,7 +2,7 @@
 
 # 🖥️ Lista de Atendimento 
 
-Projeto feito com uma tipagem utilizando Typescript, tooling com Vite, interface responsiva com TaiwindCS.
+Projeto feito com uma tipagem utilizando Typescript, tooling com Vite, interface responsiva com TailwindCSS.
 
 ## ⚙️ Pré-requisitos
 
