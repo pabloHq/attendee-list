@@ -2,7 +2,7 @@
 
 # 🖥️ Lista de Atendimento 
 
-Projeto feito para aperfeiçoar minhas habilidades, utilizando React entre outras bibliotecas incríveis.
+Projeto feito com uma tipagem utilizando Typescript, tooling com Vite, interface responsiva com TaiwindCS.
 
 ## ⚙️ Pré-requisitos
 
